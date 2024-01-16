@@ -1,0 +1,71 @@
+*{
+    margin:0 ;
+    padding:0 ;
+    font-family: t;
+    box-sizing: border-box;
+     }
+     h1{
+    text-align: center;
+    color: rgb(217, 8, 47);
+    padding: 20px;
+     }
+     nav{background-color: rgb(251, 255, 0);
+      display: grid;
+      place-items: center;  
+     }
+nav ul{list-style-type: none;}
+nav ul a{display: inline-block;
+    padding: 20px;
+text-decoration: none;
+color: ;
+transition: 0.2s ease-in;
+font-size: 20px;
+}
+nav ul a:hover{
+    background-color: rgb(205, 32, 32);
+color: aliceblue;
+} 
+.items{
+display: grid;
+grid-template-columns: repeat(3, 1fr);
+padding: 30px 20px;
+grid column gap: 20px;
+grid raw gap
+
+
+}
+
+body{background-color: rgb(0, 0, 0);}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
